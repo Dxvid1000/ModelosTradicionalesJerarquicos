@@ -1,4 +1,4 @@
-# Modelos Tradicionales y Jerárquicos para el Reconocimiento del Habla en el Lenguaje Español de México
+# Descripción Proyecto
 
 _Código fuente, metadatos y archivos de audio con los que se realizaron las experimentaciones correspondientes a la tesis "Efectividad de los Modelos Jerárquicos y Tradicionales para el Reconocimiento del Habla en el Lenguaje Español de México" presentada por el Ingeniero en Computación David Andrés Vásquez Anguiano._
 
