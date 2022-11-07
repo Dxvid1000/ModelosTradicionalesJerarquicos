@@ -13,6 +13,7 @@ _Se enlistan las herramientas utilizadas en este proyecto_
 ## Documentación
 
 Puedes encontrar información más detallada en la tesis "Efectividad de los Modelos Jerárquicos y Tradicionales para el Reconocimiento del Habla en el Lenguaje Español de México". 
+https://drive.google.com/file/d/1ji3w1kUihEyXViJyeyXWU3Wa2UrV1b3y/view?usp=sharing
 
 ## Contribuyentes
 
